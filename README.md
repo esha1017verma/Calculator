@@ -1,5 +1,5 @@
 # Calculator
-A calculator is an electronic device used to perform arithmetic and complex mathematical operations. It helps in quick, accurate, and efficient calculations for daily or academic use.
+A calculator is an electronic device used to perform arithmetic and complex mathematical operations. It helps in quick, accurate, and efficient calculations for daily or academic use for your android device
 ## Features
 
 - **Basic Arithmetic Operations:** 
