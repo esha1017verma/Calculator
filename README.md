@@ -26,11 +26,12 @@ A calculator is an electronic device used to perform arithmetic and complex math
 - **Real-Time Feedback:** 
   - Instantly shows results or updated expressions with every input.
  
-    # 1️⃣ Compile all Java files (make sure you're in the project root)
-javac model/*.java view/*.java controller/*.java Main.java
+  ## Installation
 
-# 2️⃣ Run the calculator
-java Main
+1. **Clone** the repository to your local machine:  
+   `git clone https://github.com/your-username/ModernCalculator.git`
 
-# 3️⃣ Enjoy!
-# The modern calculator window will appear on your screen 
+2. **Open** the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, or VS Code).
+
+3. **Build and Run** the project 
+   
