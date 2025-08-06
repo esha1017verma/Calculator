@@ -26,7 +26,7 @@ A calculator is an electronic device used to perform arithmetic and complex math
 - **Real-Time Feedback:** 
   - Instantly shows results or updated expressions with every input.
  
-  ## Installation
+## Installation
 
 1. **Clone** the repository to your local machine:  
    `git clone https://github.com/your-username/ModernCalculator.git`
